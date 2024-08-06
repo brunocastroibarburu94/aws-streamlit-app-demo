@@ -1,0 +1,7 @@
+streamlit # Web App Front End
+pandas # Management of Data
+boto3  # Connection with AWS tools: Many versions on 1.3 have compatibility issues
+bokeh # 2D Interactive Plots
+matplotlib # Normal plots
+stpyvista>=0.0.9 # 3D plots link to streamlit
+pyvista # 3D plots engine
